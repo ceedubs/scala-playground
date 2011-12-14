@@ -3,6 +3,7 @@ package parcollections
 import scala.collection.GenIterable
 
 object ParCollectionsExample {
+
 	def main(args: Array[String]) {
 		val numbers = 1 to 10
 

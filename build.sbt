@@ -1,1 +1,1 @@
-mainClass := Some("parcollections.ParCollectionsExample")
+
